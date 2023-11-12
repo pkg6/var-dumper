@@ -1,2 +1,6 @@
-# php-var-dumper
-Helper for dumping variable for debug purposes
+# Install 
+
+~~~
+composer require pkg6/var-dumper
+~~~
+
